@@ -1,4 +1,4 @@
-# Proxy-Parser-HideMyName
+# Proxy-Parser-HideMyName (not work after cloudflare)
 Proxy parser from HideMy.name, support settings
 
 #### Parser using library xNet
